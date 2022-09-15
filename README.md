@@ -39,7 +39,7 @@ And run:
 
     py main.py
 
-** And here you go! **
+**And here you go!**
 
 ## License
 
